@@ -24,9 +24,6 @@ package group.project.btech.bluchat_extend;
         import android.os.Bundle;
         import android.os.Handler;
         import android.os.Message;
-        import android.support.annotation.Nullable;
-        import android.support.v4.app.Fragment;
-        import android.support.v4.app.FragmentActivity;
         import android.util.Log;
         import android.view.KeyEvent;
         import android.view.LayoutInflater;
@@ -42,6 +39,9 @@ package group.project.btech.bluchat_extend;
         import android.widget.ListView;
         import android.widget.TextView;
         import android.widget.Toast;
+
+        import androidx.fragment.app.Fragment;
+        import androidx.fragment.app.FragmentActivity;
 
 /**
  * This fragment controls Bluetooth to communicate with other devices.
