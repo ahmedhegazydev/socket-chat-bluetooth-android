@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bluchat_extend.iml" filepath="$PROJECT_DIR$/Bluchat_extend.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Bluetooth-Chat-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/Bluetooth-Chat-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Bluetooth-Chat-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Bluetooth-Chat-Android.app.iml" />
     </modules>
   </component>
 </project>
